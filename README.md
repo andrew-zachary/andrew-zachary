@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'a Andrew
 #### a freelance front end developer
-#### i will build awesome Reactjs apps
 
-I'am targeting modern browsers for building blazing fast, modern apps and websites with Reactjs, i will build reusable Reactjs Component or a Scalable/Maintainable APP .
+I'am targeting modern browsers for building blazing fast, modern apps and websites with Reactjs, i will build reusable Component or a Scalable/Maintainable APP using Reactjs.
 
 ## Skills and Experience
