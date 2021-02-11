@@ -1,5 +1,5 @@
 ### Hi there, I'am Andrew
-#### a freelance front end developer
+#### a freelance front end web developer
 
 I'am targeting modern browsers for building blazing fast, modern apps and websites, i will build reusable Component with Reactjs or a Scalable/Maintainable SPA using React-Redux.
 
@@ -11,7 +11,7 @@ https://github.com/andrew-zachary/storelocattoo-dashboard<br />
 beside my freelance tasks i like to share my knowledge and gain feedback for Coding best practices .
 
 ## :book: Currently learning
-Nextjs
+Expressjs
 
 ## :yellow_heart: Interests
 <ul>
