@@ -1,5 +1,4 @@
 # Hi, I'm a frontend web developer.
-
 I can build web applications for small to medium size business.
 I'm targeting modern browsers for building blazing fast web apps.
 
@@ -7,7 +6,7 @@ I will build reusable Components with Reactjs or a Scalable/Maintainable SPA usi
 
 Also will convert web design into responsive HTML web pages, i like to use alpinejs to create javascript features for a multi-page application but still can work with jquery.
 
-Have experience with other frameworks like Vuejs(Composition-API,Pinia) and build-tools like AstroBuild.
+Have experience with other frameworks like Vuejs(Composition-API,Pinia) and SSG tools like AstroBuild.
 
 ## :zap: Tools and Skills
 <img src="https://cdn.cdnlogo.com/logos/h/84/html.svg" width="24" />  <img src="https://cdn.cdnlogo.com/logos/c/18/css.svg" width="24" />  <img src="https://cdn.cdnlogo.com/logos/j/44/javascript.svg" width="26" />  <img src="https://cdn.cdnlogo.com/logos/n/88/nodejs.svg" width="72" />  <img src="https://astro.build/assets/press/full-logo-light.svg" width="75" /> 
@@ -33,3 +32,6 @@ Have experience with other frameworks like Vuejs(Composition-API,Pinia) and buil
     </td>
   </tr>
 </table>
+
+## :gem: Latest Posts
+in progress...
