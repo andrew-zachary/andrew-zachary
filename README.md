@@ -34,7 +34,10 @@ Have experience with other frameworks like Vuejs(Composition-API,Pinia) and SSG 
 </table>
 
 ## :gem: Latest Posts
-in progress...
+- <a href="https://dev.to/andrewzach/build-a-shopping-cart-with-alpinejs-3nkb">Build a Shopping Cart with Alpinejs.</a>
+
+## :skateboard: Currently hacking on
+- Keep up with AI APIs/Applications and optimize my workflow to consume their power.
 
 ## :speech_balloon: Contacts
 - :envelope: andrew.saeed.zachary@gmail
