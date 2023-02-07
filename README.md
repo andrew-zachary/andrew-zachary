@@ -35,6 +35,7 @@ Have experience with other frameworks like Vuejs(Composition-API,Pinia) and SSG 
 
 ## :gem: Latest Posts
 - <a href="https://dev.to/andrewzach/build-a-shopping-cart-with-alpinejs-3nkb">Build a Shopping Cart with Alpinejs.</a>
+- <a href="https://dev.to/andrewzach/hard-time-with-image-attribute-loadinglazy-alpinejs-can-help-4a05">Images Lazy Loading with Alpinejs.</a>
 
 ## :skateboard: Currently hacking on
 - Keep up with AI APIs/Applications and optimize my workflow to consume their power.
