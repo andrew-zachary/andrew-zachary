@@ -38,6 +38,7 @@ Have experience with other frameworks like Vuejs(Composition-API,Pinia) and SSG 
 - <a href="https://dev.to/andrewzach/hard-time-with-image-attribute-loadinglazy-alpinejs-can-help-4a05">Images Lazy Loading with Alpinejs.</a>
 - <a href="https://dev.to/andrewzach/basic-infinite-scroll-with-react-use-hooks-447l">Basic infinite scroll with react-use hooks</a>
 - <a href="https://dev.to/andrewzach/how-to-make-animations-with-vuejs-jp2">How to make animations with Vuejs</a>
+- <a href="https://dev.to/andrewzach/creating-a-multilingual-registration-form-with-vuejs-vee-validate-and-vue-i18n-c07">Creating a Multilingual Registration Form with Vuejs</a>
 
 ## :skateboard: Currently hacking on
 - Keep up with AI APIs/Applications and optimize my workflow to consume their power.
