@@ -39,6 +39,7 @@ Have experience with other frameworks like Vuejs(Composition-API,Pinia) and SSG 
 - <a href="https://dev.to/andrewzach/basic-infinite-scroll-with-react-use-hooks-447l">Basic infinite scroll with react-use hooks</a>
 - <a href="https://dev.to/andrewzach/how-to-make-animations-with-vuejs-jp2">How to make animations with Vuejs</a>
 - <a href="https://dev.to/andrewzach/creating-a-multilingual-registration-form-with-vuejs-vee-validate-and-vue-i18n-c07">Creating a Multilingual Registration Form with Vuejs</a>
+- <a href="https://dev.to/andrewzach/building-a-quiz-app-with-vuejs-pinia-12d6">Building a Quiz App with Vuejs Pinia</a>
 
 ## :skateboard: Currently hacking on
 - Keep up with AI APIs/Applications and optimize my workflow to consume their power.
