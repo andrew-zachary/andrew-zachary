@@ -1,12 +1,9 @@
 # Hi, I'm a frontend web developer.
-I can build web applications for small to medium size business.
-I'm targeting modern browsers for building blazing fast web apps.
+Targeting modern browsers for building blazing fast web apps, I believe that Vuejs is the default pickup to build any SPA, simply because it has a rich ecosystem, great documentation, and a very big community to help you, also like to use:
 
-I will build reusable Components with Reactjs or a Scalable/Maintainable SPA using React-Redux.
+- Astrobuild is a great tool for SSG and MPA which plays well with Alpinejs and Tailwind (a must-use to style every app).
 
-Also will convert web design into responsive HTML web pages, i like to use alpinejs to create javascript features for a multi-page application but still can work with jquery.
-
-Have experience with other frameworks like Vuejs(Composition-API,Pinia) and SSG tools like AstroBuild.
+- Reactjs.
 
 ## :zap: Tools and Skills
 <img src="https://cdn.cdnlogo.com/logos/h/84/html.svg" width="24" />  <img src="https://cdn.cdnlogo.com/logos/c/18/css.svg" width="24" />  <img src="https://cdn.cdnlogo.com/logos/j/44/javascript.svg" width="26" />  <img src="https://cdn.cdnlogo.com/logos/n/88/nodejs.svg" width="72" />  <img src="https://astro.build/assets/press/full-logo-light.svg" width="75" /> 
@@ -36,14 +33,15 @@ Have experience with other frameworks like Vuejs(Composition-API,Pinia) and SSG 
 ## :gem: Latest Posts
 - <a href="https://dev.to/andrewzach/build-a-shopping-cart-with-alpinejs-3nkb">Build a Shopping Cart with Alpinejs.</a>
 - <a href="https://dev.to/andrewzach/hard-time-with-image-attribute-loadinglazy-alpinejs-can-help-4a05">Images Lazy Loading with Alpinejs.</a>
-- <a href="https://dev.to/andrewzach/basic-infinite-scroll-with-react-use-hooks-447l">Basic infinite scroll with react-use hooks</a>
-- <a href="https://dev.to/andrewzach/how-to-make-animations-with-vuejs-jp2">How to make animations with Vuejs</a>
-- <a href="https://dev.to/andrewzach/creating-a-multilingual-registration-form-with-vuejs-vee-validate-and-vue-i18n-c07">Creating a Multilingual Registration Form with Vuejs</a>
-- <a href="https://dev.to/andrewzach/building-a-quiz-app-with-vuejs-pinia-12d6">Building a Quiz App with Vuejs Pinia</a>
-- <a href="https://dev.to/andrewzach/creating-countdown-timer-with-vuejs-composables-m52">Creating Countdown Timer with Vuejs Composables</a>
+- <a href="https://dev.to/andrewzach/basic-infinite-scroll-with-react-use-hooks-447l">Basic infinite scroll with react-use hooks.</a>
+- <a href="https://dev.to/andrewzach/how-to-make-animations-with-vuejs-jp2">How to make animations with Vuejs.</a>
+- <a href="https://dev.to/andrewzach/creating-a-multilingual-registration-form-with-vuejs-vee-validate-and-vue-i18n-c07">Creating a Multilingual Registration Form with Vuejs.</a>
+- <a href="https://dev.to/andrewzach/building-a-quiz-app-with-vuejs-pinia-12d6">Building a Quiz App with Vuejs Pinia.</a>
+- <a href="https://dev.to/andrewzach/creating-countdown-timer-with-vuejs-composables-m52">Creating Countdown Timer with Vuejs Composables.</a>
+- <a href="https://dev.to/andrewzach/create-a-shopping-cart-with-vuejs-and-pinia-1ooc">Create a Shopping Cart with Vuejs and Pinia.</a>
 
 ## :skateboard: Currently hacking on
-- Keep up with AI APIs/Applications and optimize my workflow to consume their power.
+- Keep up with AI tooling and optimize my workflow to consume their power.
 
 ## :speech_balloon: Contacts
 - :envelope: andrew.saeed.zachary@gmail
