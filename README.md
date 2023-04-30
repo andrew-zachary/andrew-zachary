@@ -1,30 +1,40 @@
 # Hi, I'm a frontend web developer.
-Targeting modern browsers for building blazing fast web apps, I believe that Vuejs is the default pickup to build any SPA, simply because it has a rich ecosystem, great documentation, and a very big community to help you, also have experience working with:
+Targeting modern browsers for building blazing fast web apps, I believe that <a href="https://vuejs.org/">**Vuejs**</a> is the default pickup to build any SPA, simply because it has a rich ecosystem, great documentation, and a very big community to help you.
 
-- Astrobuild is a great tool for SSG and MPA which plays well with Alpinejs and Tailwind (a must-use to style every app).
+I Also have experience working with:
 
-- Reactjs.
+- <a href="https://astro.build/">**Astrobuild**</a> (a great tool for SSG and creating MPA).
+- <a href="https://alpinejs.dev/">**Alpinejs**</a>
+
+I found that layering my CSS with <a href="https://tailwindcss.com/">**Tailwind**</a> can help a lot in writing cleaner CSS faster.
 
 ## :zap: Tools and Skills
 <img src="https://cdn.cdnlogo.com/logos/h/84/html.svg" width="24" />  <img src="https://cdn.cdnlogo.com/logos/c/18/css.svg" width="24" />  <img src="https://cdn.cdnlogo.com/logos/j/44/javascript.svg" width="26" />  <img src="https://cdn.cdnlogo.com/logos/n/88/nodejs.svg" width="72" />  <img src="https://astro.build/assets/press/full-logo-light.svg" width="75" /> 
-<img src="https://alpinejs.dev/alpine_long.svg" width="120" />  <img src="https://cdn.cdnlogo.com/logos/t/58/tailwind-css.svg" width="30" />  <img src="https://cdn.cdnlogo.com/logos/s/90/sass.svg" width="32" />  <img src="https://cdn.cdnlogo.com/logos/r/63/react.svg" width="24" />  <img src="https://cdn.cdnlogo.com/logos/r/37/redux.svg" width="30" />  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="24" />  <img src="https://pinia.vuejs.org/logo.svg" width="20" />
+<img src="https://alpinejs.dev/alpine_long.svg" width="120" />  <img src="https://cdn.cdnlogo.com/logos/t/58/tailwind-css.svg" width="30" />  <img src="https://cdn.cdnlogo.com/logos/s/90/sass.svg" width="32" />  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" width="24" />  <img src="https://pinia.vuejs.org/logo.svg" width="20" />
 
 ## :fire: My Experience
 <table>
   <tr>
     <td valign="center">
       <a href="https://github.com/andrew-zachary/big-deals">
-        <img width="180" height="125" src="./big-deals.jpeg"/>
+        <img width="180" src="./big-deals.png" align="right"/>
       </a>
     </td>
     <td valign="center">
       <a href="https://github.com/andrew-zachary/html-responsive-templates">
-        <img width="180" height="125" src="./html-responsive-templates.jpeg"/>
+        <img width="180" src="./html-responsive-templates.png" align="right"/>
       </a>
     </td>
     <td valign="center">
       <a href="https://github.com/andrew-zachary/online-teacher">
-        <img width="180" height="125" src="./online-teacher.jpeg"/>
+        <img width="180" src="./online-teacher.png" align="right"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="center">
+      <a href="https://github.com/andrew-zachary/cosmic-dust">
+        <img width="180" src="./cosmic-dust.png" align="right"/>
       </a>
     </td>
   </tr>
@@ -42,7 +52,7 @@ Targeting modern browsers for building blazing fast web apps, I believe that Vue
 
 
 ## :skateboard: Currently hacking on
-- Keep up with AI tooling and optimize my workflow to consume their power.
+- Keep up with AI tools and optimize my workflow to consume their power.
 
 ## :speech_balloon: Contacts
 - :envelope: andrew.saeed.zachary@gmail
