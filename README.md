@@ -6,7 +6,7 @@ I Also have experience working with:
 - <a href="https://astro.build/">**Astrobuild**</a> (a great tool for SSG and creating MPA).
 - <a href="https://alpinejs.dev/">**Alpinejs**</a>
 
-I found that layering my CSS with <a href="https://tailwindcss.com/">**Tailwind**</a> can help a lot in writing cleaner CSS faster.
+I found that layering my CSS with <a href="https://tailwindcss.com/">**Tailwind**</a> can help a lot in writing readable CSS faster.
 
 ## :zap: Tools and Skills
 <img src="https://cdn.cdnlogo.com/logos/h/84/html.svg" width="24" />  <img src="https://cdn.cdnlogo.com/logos/c/18/css.svg" width="24" />  <img src="https://cdn.cdnlogo.com/logos/j/44/javascript.svg" width="26" />  <img src="https://cdn.cdnlogo.com/logos/n/88/nodejs.svg" width="72" />  <img src="https://astro.build/assets/press/full-logo-light.svg" width="75" /> 
@@ -41,6 +41,7 @@ I found that layering my CSS with <a href="https://tailwindcss.com/">**Tailwind*
 </table>
 
 ## :gem: Latest Posts
+- <a href="https://dev.to/andrewzach/create-a-responsive-nav-menu-with-tailwind-and-alpinejs-2ij1">Create a Responsive Nav Menu with Tailwind and Alpinejs.</a>
 - <a href="https://dev.to/andrewzach/create-a-shopping-cart-with-vuejs-and-pinia-1ooc">Create a Shopping Cart with Vuejs and Pinia.</a>
 - <a href="https://dev.to/andrewzach/creating-countdown-timer-with-vuejs-composables-m52">Creating Countdown Timer with Vuejs Composables.</a>
 - <a href="https://dev.to/andrewzach/building-a-quiz-app-with-vuejs-pinia-12d6">Building a Quiz App with Vuejs Pinia.</a>
