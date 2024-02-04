@@ -1,5 +1,5 @@
 # Hi, I'm a frontend web developer.
-Targeting modern browsers for building blazing fast web apps.
+Targeting modern browsers for building blazing fast web apps :guitar: :metal:
 
 ## :zap: Tools and Skills
 <img src="https://cdn.cdnlogo.com/logos/h/84/html.svg" width="24" />  <img src="https://cdn.cdnlogo.com/logos/c/18/css.svg" width="24" />  <img src="https://cdn.cdnlogo.com/logos/j/44/javascript.svg" width="26" />  <img src="https://cdn.cdnlogo.com/logos/n/88/nodejs.svg" width="72" />  <img src="https://astro.build/assets/press/full-logo-light.svg" width="75" /> 
@@ -7,10 +7,9 @@ Targeting modern browsers for building blazing fast web apps.
 
 ## ⚙️ Building
 ### <a href="https://github.com/andrew-zachary/multi-vendor-ecommerce">**Multi Vendor Ecommerce**</a>
+MEVN stack web app that implements common Ecommerce features.
 ### <a href="https://ai-zem-up.vercel.app/">**AI'zem up**</a>
-The bridge between passion and progress within AI domain.
-
-Build your community around AI flames and push your AI skills to the surface.
+Building the bridge between passion and progress within the AI domain.
 
 ## :gem: Latest Posts
 - <a href="https://dev.to/andrewzach/create-a-responsive-nav-menu-with-tailwind-and-alpinejs-2ij1">Create a Responsive Nav Menu with Tailwind and Alpinejs.</a>
